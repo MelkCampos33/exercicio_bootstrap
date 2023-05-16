@@ -1,0 +1,11 @@
+.container .row {
+    width: 30rem;
+}
+
+.row label {
+    margin-top: 10px;
+}
+
+.row button {
+    margin-top: 20px;
+}
